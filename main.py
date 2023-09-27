@@ -5,4 +5,4 @@ import InfoArtistClass as iac
 # test.set_wiki_report()
 # print(test.get_wiki_report())
 # test.create_db()
-
+print("hola")
